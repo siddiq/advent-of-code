@@ -97,5 +97,5 @@ const policy2 = () => {
 };
 
 
-// policy1();
+policy1();
 policy2();

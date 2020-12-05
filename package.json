@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddiq/advent-of-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddiq/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/siddiq/advent-of-code#readme",
+  "devDependencies": {
+    "eslint": "7.15.0"
+  }
+}
