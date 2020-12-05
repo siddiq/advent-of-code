@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const fs = require('fs');
-const input = fs.readFileSync('./day2-input.txt', 'utf-8');
+const input = fs.readFileSync('./2020/day2-input.txt', 'utf-8');
 const lines = input.split('\n');
 
 const parse = (line) => {

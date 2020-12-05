@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const fs = require('fs');
-const input = fs.readFileSync('./day1-input.txt', 'utf-8');
+const input = fs.readFileSync('./2020/day1-input.txt', 'utf-8');
 const arr = input.trim().split('\n').map(n => Number(n));
 
 console.log(JSON.stringify(arr));
